@@ -9,16 +9,17 @@ const ProjectsSection = () => {
       id: 1,
       title: t("projects.p1.title"),
       description: t("projects.p1.description"),
-      image: "/projects/project3.png",
+      image: "/img/GestorP.PNG",
       tags: ["React", "CSS"],
-      demoUrl: "https://pwa-tp-react-git-master-martin-villegasreibolds-projects.vercel.app",
+      demoUrl:
+        "https://pwa-tp-react-git-master-martin-villegasreibolds-projects.vercel.app",
       githubUrl: "https://github.com/Martin-VillegasReibold/PWA--TP-REACT",
     },
     {
       id: 2,
       title: t("projects.p2.title"),
       description: t("projects.p2.description"),
-      image: "/projects/project3.png",
+      image: "/img/DinoWiki.PNG",
       tags: ["React", "Tailwind"],
       demoUrl: "https://pwa-react-tp-2.vercel.app",
       githubUrl: "https://github.com/Martin-VillegasReibold/PWA-REACT-TP2",
@@ -27,10 +28,10 @@ const ProjectsSection = () => {
       id: 3,
       title: t("projects.p3.title"),
       description: t("projects.p3.description"),
-      image: "/projects/project3.png",
+      image: "/img/Portfolio.PNG",
       tags: ["React", "Tailwind"],
       demoUrl: "#",
-      githubUrl: "#",
+      githubUrl: "https://github.com/Martin-VillegasReibold/Personal-Portfolio",
     },
   ];
 

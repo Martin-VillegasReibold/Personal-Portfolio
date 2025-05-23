@@ -24,6 +24,16 @@ const SkillsSection = () => {
     { name: "VS Code", level: 75, category: "tools" },
   ];
 
+  const changeLang = (param) => {
+    if (param === "all") {
+      param = t("skills.all");
+    }
+    if (param === "tools") {
+      param = t("skills.tools");
+    }
+    return param;
+  };
+
   const [activeCategory, setActiveCategory] = useState("all");
 
   const filteredSkills = skills.filter(
@@ -43,13 +53,13 @@ const SkillsSection = () => {
               key={key}
               onClick={() => setActiveCategory(category)}
               className={cn(
-                "px-5 py-2 rounded-full transition-colors duration-300 capitalize",
+                "px-5 py-2 rounded-full transition-colors duration-300 capitalize cursor-pointer",
                 activeCategory === category
                   ? "bg-primary text-primary-foreground"
                   : "bg-secondary/70 text-forefround hover:bd-secondary"
               )}
             >
-              {category}
+              {changeLang(category)}
             </button>
           ))}
         </div>

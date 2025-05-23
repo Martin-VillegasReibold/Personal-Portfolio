@@ -1,4 +1,4 @@
-# Descripcion del proyecto
+# Descripción del Proyecto
 
 Portfolio personal con navegación de una pagina por diferentes secciones, adaptable a movil, con modo oscuro/claro y traducción ingles/español. El proyecto fue hecho con el fin de afianzar conocimientos y a modo de ejercitar lo visto en la materia Programación Web Avanzada de la Tecnicatura Universitaria en Desarrollo Web (Universidad Nacional del Comahue).
 
