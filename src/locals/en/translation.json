@@ -1,0 +1,113 @@
+{
+  "header": {
+    "name": "MartinVR",
+    "title": "Portfolio",
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "start": "Hi, I'm",
+    "name": "Martin",
+    "surname": "Villegas Reibold",
+    "description": "I create stellar web experiences with modern technologies. Specializing in front-end development, I build interfaces that are both beautiful and functional.",
+    "button": "Check my work",
+    "scrolltag": "Scroll"
+  },
+  "about": {
+    "titlePart1": "About",
+    "titlePart2": "Me",
+    "titleLeft": "Passionate Web Developer & Tech Creator",
+    "itemsLeft": {
+      "p1": "With over 5 years of experience in web development, I specialize in creating responsive, accessible, and performant web applications using modern technologies.",
+      "p2": "I'm passionate about creating elegant solutions to complex problems, and I'm constantly learning new technologies and techniques to stay at the forefront of the ever-evolving web landscape.",
+      "b1": "Get in Touch",
+      "b2": "Donwload CV"
+    },
+    "itemsRight": {
+      "i1": {
+        "t": "Web Development",
+        "c": "Creating responsive websites and web applications with modern frameworks."
+      },
+      "i2": {
+        "t": "UI/UX Design",
+        "c": "Designing intuitive user interfaces and seamless user experiences."
+      },
+
+      "i3": {
+        "t": "Project Management",
+        "c": "Leading projects from conception to completion with agile methodologies."
+      }
+    }
+  },
+  "skills": {
+    "titlePart1": "My",
+    "titlePart2": "Skills",
+    "all": "all",
+    "tools": "tools"
+  },
+  "projects": {
+    "titlePart1": "My",
+    "titlePart2": "Projects",
+    "description": "Here are some of my recent projects. Each project was carefully crafted with attention to detail, performance, and user experience.",
+    "button": "Check my Github",
+    "p1": {
+      "title": "Movie and Series manager",
+      "description": "The app allows users to add, mark, edit and delete new movies or series."
+    },
+    "p2": {
+      "title": "DinoWiki",
+      "description": "A SPA that consumes data from a simulated API, including other functionalities."
+    },
+    "p3": {
+      "title": "Personal Portfolio",
+      "description": "The page you are right now! Constant updates of my own progress and persistance."
+    }
+  },
+  "contact": {
+    "titlePart1": "Get In",
+    "titlePart2": "Touch",
+    "description": "Have a project in mind or want to collaborate? Feel free to reach out. I'm always open to discussing new opportunities.",
+    "subtitleLeft": "Contact Information",
+    "titleSocials": "Connect With Me",
+    "itemsInfo": {
+      "info1": {
+        "t": "Email",
+        "c": "fakemailfortestonly@gmail.com"
+      },
+      "info2": {
+        "t": "Phone",
+        "c": "(299) 3984604 or (299) 0142222"
+      },
+
+      "info3": {
+        "t": "Location",
+        "c": "Neuquén, Neuquén, Argentina"
+      }
+    },
+    "form": {
+      "title": "Send a Message",
+      "subtitle1": "Your Name",
+      "placeholder1": "Martin Villegas...",
+      "subtitle2": "Your Email",
+      "placeholder2": "MartinVR@gmail.com",
+      "subtitle3": "Your Message",
+      "placeholder3": "Hello, I'd like to talk about...",
+      "buttonSend": "Send Message",
+      "buttonSending": "Sending...",
+      "toastTitle": "Message sent!",
+      "toastDescription": "Thank you for your message. I'll get back to you soon."
+    }
+  },
+  "footer": {
+    "message": "MVR.co. All rights reserved."
+  },
+
+  "notFound": {
+    "404": "404 - Not Found",
+    "message": "The requested page or resource does not exist",
+    "button": "Return"
+  }
+}
