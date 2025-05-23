@@ -24,7 +24,7 @@ Tener instalado:
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/Martin-VillegasReibold/PWA-REACT-TP2.git
+git clone https://github.com/Martin-VillegasReibold/Personal-Portfolio.git
 ```
 
 2. Abrir la terminal en el directorio _/Personal-Portfolio_ e ingresar:
